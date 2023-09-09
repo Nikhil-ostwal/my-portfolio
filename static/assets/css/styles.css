@@ -487,3 +487,25 @@ img{
         right: 24%;
     }
 }
+
+
+/* Add these styles to your CSS file */
+.work-experience__meta {
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333; /* Adjust the color to your preference */
+}
+
+.work-experience__company {
+    margin-right: 16px;
+}
+
+.work-experience__dates {
+    color: #777; /* Adjust the color to your preference */
+}
+
+.work-experience__highlight {
+    font-weight: bold; /* Make the company name bold */
+    color: #007BFF; /* Change the color to highlight it */
+}
